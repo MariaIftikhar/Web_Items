@@ -1,1 +1,1 @@
-<?php include(" ./first.html")?>
+<?php include("./home.html")?>
